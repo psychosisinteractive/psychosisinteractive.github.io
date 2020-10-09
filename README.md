@@ -1,2 +1,0 @@
-# Psychosis Interactive
-Github Pages
